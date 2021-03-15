@@ -110,7 +110,7 @@ try:
     else:
         print(f'{vm}- [!] valor invalido !! {f}');exit()                                                                                          
 except:
-    exit()
+    exit()pkg install update && pkg upgrade
        
        
        
